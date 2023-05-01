@@ -11,6 +11,6 @@ setup(
     license='Aqua Security',
     description='Mock To Do List Server',
     install_requires=[
-        'Flask==1.0.2'
+        'Flask==2.3.2'
     ]
 )
